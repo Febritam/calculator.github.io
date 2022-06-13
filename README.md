@@ -1,2 +1,2 @@
 # React Calculator
-# website : https://larbibaraka.github.io/reactualtor/
+# website : https://Febritam.github.io/calculator/
